@@ -151,14 +151,12 @@ body {
   margin: 14px 24px;
   display: flex;
   align-items: center;
+  flex-direction: column;
   gap: 12px;
 }
 .price-tier {
   display: inline-block;
-  font-weight: 800;
   padding: 6px 10px;
-  border-radius: 10px;
-  background: rgba(255, 255, 255, 0.12);
 }
 
 .table-wrap {
