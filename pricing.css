@@ -31,11 +31,6 @@ body {
 /* ---------- Hero ---------- */
 .paywrap {
   color: var(--text);
-  background: radial-gradient(
-    1200px 600px at 50% -200px,
-    #1b4f78,
-    var(--bg) 60%
-  );
   padding: 20px 16px;
 }
 
