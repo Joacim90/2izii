@@ -79,7 +79,7 @@ body {
 
 /* ---------- Tabs (ingen scrollbar; bryter til rader) ---------- */
 .pay-tabs {
-  max-width: 1600px;
+  max-width: 1800px;
   margin: 24px auto;
   display: flex;
   gap: 8px;
@@ -141,7 +141,7 @@ body {
 
 /* ---------- Kort ---------- */
 .card {
-  max-width: 1600px;
+  max-width: 1800px;
   margin: 0 auto;
   background: var(--card);
   border-radius: var(--radius-lg);
@@ -275,7 +275,7 @@ body {
 
 /* ---------- Enterprise CTA ---------- */
 .enterprise-cta {
-  max-width: 1600px;
+  max-width: 1800px;
   margin: 10px auto;
   
 }
